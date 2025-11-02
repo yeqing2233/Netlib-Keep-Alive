@@ -38,10 +38,10 @@
    * 在仓库 `Settings` → `Secrets and variables` → `Actions` → `New repository secret` 中为每个账号添加用户名和密码，例如：
    * 格式如下（每个账号用 `;` 分隔，每个账号用户名和密码用 `,` 分隔）：、
 
-`UZANTONOMO`填入：你的用户名
-`PASVORTO`填入：你的密码
-`TELEGRAM_SIGNALO`填入：你的机器人token
-`TELEGRAM_BABILO_ID`填入：你的id
+`UZANTONOMO`填入：你的用户名  
+`PASVORTO`填入：你的密码  
+`TELEGRAM_SIGNALO`填入：你的机器人token  
+`TELEGRAM_BABILO_ID`填入：你的id  
 
 6. **GitHub Actions 自动运行**
 
